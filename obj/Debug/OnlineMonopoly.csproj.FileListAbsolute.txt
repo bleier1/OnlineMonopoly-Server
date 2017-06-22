@@ -1,0 +1,6 @@
+c:\users\bryan\documents\visual studio 2015\Projects\OnlineMonopoly\OnlineMonopoly\bin\Debug\OnlineMonopoly.exe.config
+c:\users\bryan\documents\visual studio 2015\Projects\OnlineMonopoly\OnlineMonopoly\bin\Debug\OnlineMonopoly.exe
+c:\users\bryan\documents\visual studio 2015\Projects\OnlineMonopoly\OnlineMonopoly\bin\Debug\OnlineMonopoly.pdb
+c:\users\bryan\documents\visual studio 2015\Projects\OnlineMonopoly\OnlineMonopoly\obj\Debug\OnlineMonopoly.csprojResolveAssemblyReference.cache
+c:\users\bryan\documents\visual studio 2015\Projects\OnlineMonopoly\OnlineMonopoly\obj\Debug\OnlineMonopoly.exe
+c:\users\bryan\documents\visual studio 2015\Projects\OnlineMonopoly\OnlineMonopoly\obj\Debug\OnlineMonopoly.pdb

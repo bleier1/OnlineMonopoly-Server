@@ -1,0 +1,6 @@
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\OnlineMonopoly\OnlineMonopoly\bin\Release\OnlineMonopoly.exe.config
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\OnlineMonopoly\OnlineMonopoly\bin\Release\OnlineMonopoly.exe
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\OnlineMonopoly\OnlineMonopoly\bin\Release\OnlineMonopoly.pdb
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\OnlineMonopoly\OnlineMonopoly\obj\Release\OnlineMonopoly.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\OnlineMonopoly\OnlineMonopoly\obj\Release\OnlineMonopoly.exe
+C:\Users\Bryan\Documents\Visual Studio 2015\Projects\OnlineMonopoly\OnlineMonopoly\obj\Release\OnlineMonopoly.pdb
